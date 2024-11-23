@@ -29,6 +29,6 @@ This Python project automates the process of sending images with captions to mul
 Install the required libraries using:
 ```bash
 pip install selenium pyautogui pyperclip
-git clone https://github.com/your-username/whatsapp-automation.git
+git clone https://github.com/DataScienceDigest/whatsapp-automation.git
 cd whatsapp-automation
 python whatsapp_automation.py
